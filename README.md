@@ -1,5 +1,5 @@
 # scratch-k-fold-split
-A chunk of code for k-fold dataset split. Made from scratch with python
+A chunk of code for k-fold dataset split. Made from scratch with python on Jupyter Notebook
 
 This chunk of code I wrote for an assignment
 All explanation about the chunk of code I wrote already available in the notebook
